@@ -1,4 +1,4 @@
-* 22nd June -Microsoft Azure Badges 
+** 22nd June -Microsoft Azure Badges 
 ```diff
 - (For the screenshots with address bar, please check the 23rd June badges folder (it includes all the badges from 18th June - 23rd June))
 ```
